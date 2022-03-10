@@ -1,4 +1,4 @@
 # flyway-implementation
 
-Flyway implementation with Spring 
+Flyway implementation with Spring Boot
 
